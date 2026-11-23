@@ -1,0 +1,10 @@
+{
+  "name": "صوت ستوديو — Sawt Studio",
+  "description": "استوديو ذكاء اصطناعي لتحويل النصوص العربية الفصحى واللهجات إلى صوت بشري طبيعي مع التحكم بنبرة الصوت وسرعة الإلقاء وتنزيل الملفات الصوتية.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
